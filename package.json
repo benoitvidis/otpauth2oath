@@ -9,7 +9,7 @@
   "author": "Benoît Vidis",
   "license": "Apache-2.0",
   "dependencies": {
-    "semver": "^6.3.0"
+    "semver": "^7.5.2"
   },
   "engines": {
     "node": ">=12.0.0"
